@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<profiles>
+	<profile>
+		<name>Normal</name>
+		<mode>1</mode>
+		<delay>20</delay>
+		<color1_left>#E60118</color1_left>
+		<color1_center>#9BE11D</color1_center>
+		<color1_right>#35BAF5</color1_right>
+		<color2_left>#000000</color2_left>
+		<color2_center>#000000</color2_center>
+		<color2_right>#000000</color2_right>
+	</profile>
+	<profile>
+		<name>Audio</name>
+		<mode>6</mode>
+		<delay>20</delay>
+		<color1_left>#E60118</color1_left>
+		<color1_center>#9BE11D</color1_center>
+		<color1_right>#74C9F2</color1_right>
+		<color2_left>#000000</color2_left>
+		<color2_center>#000000</color2_center>
+		<color2_right>#000000</color2_right>
+	</profile>
+	<profile>
+		<name>Green</name>
+		<mode>1</mode>
+		<delay>20</delay>
+		<color1_left>#9BE11D</color1_left>
+		<color1_center>#9BE11D</color1_center>
+		<color1_right>#9BE11D</color1_right>
+		<color2_left>#000000</color2_left>
+		<color2_center>#000000</color2_center>
+		<color2_right>#000000</color2_right>
+	</profile>
+	<profile>
+		<name>White</name>
+		<mode>1</mode>
+		<delay>20</delay>
+		<color1_left>#FFFFFF</color1_left>
+		<color1_center>#FFFFFF</color1_center>
+		<color1_right>#FFFFFF</color1_right>
+		<color2_left>#000000</color2_left>
+		<color2_center>#000000</color2_center>
+		<color2_right>#000000</color2_right>
+	</profile>
+</profiles>
